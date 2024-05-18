@@ -2,5 +2,5 @@
 
 
 <a href="https://www.linkedin.com/in/abhishekmishra3/">
-  <img src="image/Loan Analytics Banner.jpg" width="400" height="250" alt="LinkedIn Profile"/>
+  <img src="image/Loan Analytics Banner.jpg" width="700" height="250" alt="LinkedIn Profile"/>
 </a>
